@@ -2,3 +2,9 @@
 
 文を追加しました。
 this is a pen.
+
+def add(a+ b)
+
+引き算追加
+def a- b:
+     retuen(a,b)
